@@ -1,10 +1,10 @@
-#Multi-tape NFA Turing Machine
+# Multi-tape NFA Turing Machine
 ___
 Fun little project creating a [non-deterministic finite automata](https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton) in plain Java
 
 Machine state transitions are defined in `input.txt` and follow the formatting guide in `input template.txt`
 
-##DFA Example
+## DFA Example
 ___
 Current instructions in `input.txt` does addition between two binary numbers separated by a # character and B characters represent blank cells
 
@@ -118,7 +118,7 @@ Process finished with exit code 0
 
 ```
 
-##NFA Example
+## NFA Example
 ___
 The program also supports non-deterministic automatas; printing each possibility into separate columns in the output
 
